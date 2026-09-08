@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://constantinuncuta.github.io/handbook-7ykyjf/sitemap.xml
